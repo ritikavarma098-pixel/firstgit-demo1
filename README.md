@@ -1,2 +1,3 @@
 # firstgit-demo1
 This is my first Git Repository.
+Author - Ritika Verma
